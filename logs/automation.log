@@ -1,0 +1,26 @@
+2025-05-16 12:15:41 DEBUG TestNG:82 - suiteXmlPath: "C:\seleniumpractice\OpencartV121\master.xml"
+2025-05-16 12:18:04 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
+2025-05-16 12:18:04 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
+2025-05-16 12:18:27 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
+2025-05-16 12:18:35 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
+2025-05-16 12:19:18 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
+2025-05-16 12:19:18 INFO  TC_001_AccountRegistrationTest:65 - Finished
+2025-05-16 12:19:47 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
+2025-05-16 12:19:47 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
+2025-05-16 12:20:08 INFO  TC_002_LoginTest:46 - Finished TC_002_LoginTest
+2025-05-16 17:42:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumpractice\OpencartV121\master.xml"
+2025-05-16 17:42:55 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
+2025-05-16 17:42:55 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
+2025-05-16 17:42:56 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
+2025-05-16 17:42:58 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
+2025-05-16 17:43:00 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
+2025-05-16 17:43:00 INFO  TC_001_AccountRegistrationTest:65 - Finished
+2025-05-16 17:43:13 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
+2025-05-16 17:43:13 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
+2025-05-16 17:43:17 INFO  TC_002_LoginTest:46 - Finished TC_002_LoginTest
+2025-05-16 17:51:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumpractice\OpencartV121\master.xml"
+2025-05-16 17:52:01 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
+2025-05-16 17:52:01 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
+2025-05-16 17:52:39 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
+2025-05-16 17:52:39 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
+2025-05-16 17:52:43 INFO  TC_002_LoginTest:46 - Finished TC_002_LoginTest
