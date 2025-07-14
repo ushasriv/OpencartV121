@@ -11,11 +11,14 @@ public class HomePage extends BasePage{
 		super(driver);
 	}
 	
-	@FindBy(xpath = "//span[normalize-space()='My Account']") WebElement linkMyAccount;
+	@FindBy(xpath = "//span[normalize-space()='My Account']")
+	WebElement linkMyAccount;
 	
-	@FindBy(xpath = "//a[normalize-space()='Register']") WebElement linkRegister;
+	@FindBy(xpath = "//a[normalize-space()='Register']")
+	WebElement linkRegister;
 	
-	@FindBy(xpath = "//a[normalize-space()='Login']") WebElement linkLogin;
+	@FindBy(xpath = "//a[normalize-space()='Login']")
+	WebElement linkLogin;
 	
 	
 	public void clickMyAccount()

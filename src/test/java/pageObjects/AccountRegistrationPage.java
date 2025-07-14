@@ -11,23 +11,32 @@ public class AccountRegistrationPage extends BasePage{
 		super(driver);
 	}
 	
-	@FindBy(xpath = "//input[@id='input-firstname']") WebElement txtFirstName;
+	@FindBy(xpath = "//input[@id='input-firstname']")
+	WebElement txtFirstName;
 	
-	@FindBy(xpath = "//input[@id='input-lastname']") WebElement txtLastName;
+	@FindBy(xpath = "//input[@id='input-lastname']")
+	WebElement txtLastName;
 	
-	@FindBy(xpath = "//input[@id='input-email']") WebElement txtEmail;
+	@FindBy(xpath = "//input[@id='input-email']")
+	WebElement txtEmail;
 	
-	@FindBy(xpath = "//input[@id='input-telephone']") WebElement txtTelephone;
+	@FindBy(xpath = "//input[@id='input-telephone']")
+	WebElement txtTelephone;
 	
-	@FindBy(xpath = "//input[@id='input-password']") WebElement txtPassword;
+	@FindBy(xpath = "//input[@id='input-password']")
+	WebElement txtPassword;
 	
-	@FindBy(xpath = "//input[@id='input-confirm']") WebElement txtConfirmPassword;
+	@FindBy(xpath = "//input[@id='input-confirm']")
+	WebElement txtConfirmPassword;
 	
-	@FindBy(xpath = "//input[@name='agree']") WebElement checkboxPolicy;
+	@FindBy(xpath = "//input[@name='agree']")
+	WebElement checkboxPolicy;
 		
-	@FindBy(xpath = "//input[@value='Continue']") WebElement buttonContinue;
+	@FindBy(xpath = "//input[@value='Continue']")
+	WebElement buttonContinue;
 	
-	@FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']") WebElement msgConfirmation;
+	@FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
+	WebElement msgConfirmation;
 	
 	
 	public void setFirstName(String fname)
