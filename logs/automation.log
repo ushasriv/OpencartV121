@@ -1,54 +1,13 @@
-2025-07-14 16:27:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpencartV121\master.xml"
-2025-07-14 16:27:44 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
-2025-07-14 16:27:44 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
-2025-07-14 16:27:44 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
-2025-07-14 16:27:45 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
-2025-07-14 16:27:46 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
-2025-07-14 16:27:46 INFO  TC_001_AccountRegistrationTest:65 - Finished
-2025-07-14 16:27:48 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
-2025-07-14 16:27:48 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
-2025-07-14 16:27:49 INFO  TC_002_LoginTest:46 - Finished TC_002_LoginTest
-2025-07-14 16:28:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpencartV121\master.xml"
-2025-07-14 16:28:30 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
-2025-07-14 16:28:30 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
-2025-07-14 16:28:30 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
-2025-07-14 16:28:31 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
-2025-07-14 16:28:32 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
-2025-07-14 16:28:32 INFO  TC_001_AccountRegistrationTest:65 - Finished
-2025-07-14 16:28:34 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
-2025-07-14 16:28:34 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
-2025-07-14 16:30:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpencartV121\master.xml"
-2025-07-14 16:30:05 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
-2025-07-14 16:30:05 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
-2025-07-14 16:30:05 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
-2025-07-14 16:30:06 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
-2025-07-14 16:30:08 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
-2025-07-14 16:30:08 INFO  TC_001_AccountRegistrationTest:65 - Finished
-2025-07-14 16:30:09 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
-2025-07-14 16:30:09 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
-2025-07-14 16:30:11 INFO  TC_002_LoginTest:46 - Finished TC_002_LoginTest
-2025-07-14 16:47:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpencartV121\master.xml"
-2025-07-14 16:47:39 INFO  Utils:112 - [TestNG] Running:
+2025-07-14 16:50:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpencartV121\master.xml"
+2025-07-14 16:50:56 INFO  Utils:112 - [TestNG] Running:
   C:\Workspace\Automation\OpencartV121\master.xml
 
-2025-07-14 16:47:41 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
-2025-07-14 16:47:41 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
-2025-07-14 16:47:42 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
-2025-07-14 16:47:42 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
-2025-07-14 16:47:43 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
-2025-07-14 16:47:43 INFO  TC_001_AccountRegistrationTest:65 - Finished
-2025-07-14 16:47:46 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
-2025-07-14 16:47:46 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
-2025-07-14 16:48:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpencartV121\master.xml"
-2025-07-14 16:48:30 INFO  Utils:112 - [TestNG] Running:
-  C:\Workspace\Automation\OpencartV121\master.xml
-
-2025-07-14 16:48:33 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
-2025-07-14 16:48:33 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
-2025-07-14 16:48:33 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
-2025-07-14 16:48:33 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
-2025-07-14 16:48:34 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
-2025-07-14 16:48:35 INFO  TC_001_AccountRegistrationTest:65 - Finished
-2025-07-14 16:48:37 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
-2025-07-14 16:48:37 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
-2025-07-14 16:48:38 INFO  TC_002_LoginTest:46 - Finished TC_002_LoginTest
+2025-07-14 16:50:58 INFO  TC_001_AccountRegistrationTest:16 - ***Starting TC_001_AccountRegistrationTest
+2025-07-14 16:50:58 INFO  TC_001_AccountRegistrationTest:23 - Clicked on My Account
+2025-07-14 16:50:58 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register
+2025-07-14 16:50:59 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details..
+2025-07-14 16:51:00 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message
+2025-07-14 16:51:00 INFO  TC_001_AccountRegistrationTest:65 - Finished
+2025-07-14 16:51:02 INFO  TC_002_LoginTest:17 - *** Starting TC_002_LoginTest***
+2025-07-14 16:51:02 DEBUG TC_002_LoginTest:18 - Capturing Application Debug Logs
+2025-07-14 16:51:04 INFO  TC_002_LoginTest:46 - Finished TC_002_LoginTest
